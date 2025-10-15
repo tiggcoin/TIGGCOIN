@@ -1,16 +1,16 @@
-## Hi there 👋
+# TIGGCOIN 
 
-<!--
-**tiggcoin/TIGGCOIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The God's Currency | Built for Everyone, Everywhere 🌍**
 
-Here are some ideas to get you started:
+TIGGCOIN is the official digital asset powering the **TIGG ECOSYSTEM** — a decentralized world of value, innovation, and community.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Overview
+- Symbol: **TIGG**
+- Blockchain: **Binance Smart Chain (BEP-20)**
+- Smart Contract: `/contracts/TIGGCOIN.sol`
+- Supply: **1,000,000,000 (Initial)**  
+- Status: **In Development**
+
+---
+
+### 🧠 Repository Structure
