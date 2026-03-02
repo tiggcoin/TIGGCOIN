@@ -7,9 +7,8 @@ TIGGCOIN is the official digital asset powering the **TIGG ECOSYSTEM** — a dec
 ### ⚡ Overview
 - Symbol: **TIGG**
 - Blockchain: **Binance Smart Chain (BEP-20)**
-- Smart Contract: `/contracts/TIGGCOIN.sol`
-- Supply: **1,000,000,000 (Initial)**  
-- Status: **In Development**
+- Supply: **1,000,000,000 (Circulating)**  
+- Status: **Developed**
 
 ---
 
