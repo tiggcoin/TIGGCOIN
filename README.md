@@ -1,6 +1,7 @@
 TIGGCOIN
 
 The God’s Currency 
+
 A New Standard for Money
 
 TIGGCOIN is the monetary layer of the TIGG Ecosystem — designed to operate as real money across digital and physical environments.
