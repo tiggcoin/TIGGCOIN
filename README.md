@@ -1,7 +1,6 @@
 TIGGCOIN
 
 The God’s Currency 
-
 A New Standard for Money
 
 TIGGCOIN is the monetary layer of the TIGG Ecosystem — designed to operate as real money across digital and physical environments.
@@ -11,7 +10,5 @@ Built for scale, precision, and permanence, TIGGCOIN is engineered to redefine h
 Overview 
 
 Symbol: TIGG 
-
 Blockchain: Binance Smart Chain (BEP-20) 
-
 Supply: 1,000,000,000 
